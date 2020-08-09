@@ -1,5 +1,3 @@
-# UBAID SHAIKH
-
 ## Software Projects
 
 ### Khazana, The Xomato of IIT Indore
