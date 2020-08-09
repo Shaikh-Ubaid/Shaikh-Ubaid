@@ -1,11 +1,4 @@
 # UBAID SHAIKH
-## Education
-
-Indian Institute of Technology Indore - July/2018 - June/2020(Expexted)
-
-Bachelor of Technology, Computer Science and Engineering
-
-CPI 8.62/10
 
 ## Software Projects
 
@@ -53,9 +46,19 @@ Certified in Python (SoloLearn Python certificate unlocked)
 
 Completed Hacktoberfest 2019 successfully with more than 4 valid pull requests
 
+Secured 1st position in Surprise Language, Euristica 19 (technical fest), IIT Indore  
+
 CodeChef Certified Data Structure & Algorithms Foundation Level Programme
 
 Secured top 0.1% in all India in Computer Science CBSE Board Examination
+
+## Education
+
+Indian Institute of Technology Indore - July/2018 - June/2020(Expexted)
+
+Bachelor of Technology, Computer Science and Engineering
+
+CPI 8.62/10
 
 <!--
 **Shaikh-Ubaid/Shaikh-Ubaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
