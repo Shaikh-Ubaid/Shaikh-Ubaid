@@ -70,18 +70,3 @@ restaurants in our campus and place a food order
 ● Functions: generates Line Graph, Bar Graph, Pie Chart, Histogram, Scatter Plot as choice selected
 
 ● Technologies Utilized: Python, Flask, Matplotlib, Heroku, Git
-
-
-
-## Achievements & Certificates
-Elementary Data Structures and Algorithms, iBhubs Talent Accelarator Programme course completed (29+ hours)
-
-Certified in Python (SoloLearn Python certificate unlocked)
-
-Completed Hacktoberfest 2019 successfully with more than 4 valid pull requests
-
-1st Position, in Surprise Language, Euristica 19 (technical fest), IIT Indore.
-
-CodeChef Certified Data Structure & Algorithms Foundation Level Programme
-
-Certificate of Merit, in Computer Science CBSE Board Examination
