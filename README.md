@@ -10,9 +10,9 @@
 ### InSyd Extension [Do you want to view content of links without opening them?](https://chrome.google.com/webstore/detail/popup-open/kahnmidddbephipngcmppdgeffcmhhma?hl=en)
 ### Fancy Calculator [What is 2*5/4+64^3](https://shaikh-ubaid.github.io/Cal-C/)
 ### Python Graph Plotter [Yet another graph plotter](https://python-graph-plotter.herokuapp.com/)
-### IIT Indore Library Website [IITI Library Website, kind of mirror reflection of original](https://shaikh-ubaid.github.io/IITIWebsite/Library)
+<!-- ### IIT Indore Library Website [IITI Library Website, kind of mirror reflection of original](https://shaikh-ubaid.github.io/IITIWebsite/Library)
 ### IIT Indore Website [If I had developed the IITI website, then it would be like this](https://shaikh-ubaid.github.io/IITIWebsite/)
-
+ -->
 
 
 
