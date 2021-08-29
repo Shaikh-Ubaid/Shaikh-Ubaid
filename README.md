@@ -12,7 +12,7 @@
 
 ➔ **Databases:** SQLite, MySQL, MongoDB
 
-<hr></hr>
+<hr/>
 
 ## Worth Visiting - Do have a look!
 ### Animations of Different Maze Generating Algorithms [Must Visit!](https://shaikh-ubaid.github.io/Implementation-and-Analysis-of-Maze-Generating-Algorithms/index)
@@ -29,10 +29,10 @@
 <!-- ### IIT Indore Library Website [IITI Library Website, kind of mirror reflection of original](https://shaikh-ubaid.github.io/IITIWebsite/Library)
 ### IIT Indore Website [If I had developed the IITI website, then it would be like this](https://shaikh-ubaid.github.io/IITIWebsite/)
  -->
+<hr/>
 
 
-
-## Software Projects (a bit of details about the above projects)
+## A bit of details about the above projects:
 
 ### Food Ordering Platform Khazana
 ● Designed a full-stack JavaScript CRUD application, where students can check out different food items from different
