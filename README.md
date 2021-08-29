@@ -34,7 +34,7 @@
 
 ## Software Projects (a bit of details about the above projects)
 
-### Khazana, The Xomato of IIT Indore
+### Food Ordering Platform Khazana
 ● Designed a full-stack JavaScript CRUD application, where students can check out different food items from different
 restaurants in our campus and place a food order
 
@@ -43,7 +43,7 @@ restaurants in our campus and place a food order
 ● Utilized: ​ HTML, CSS, JavaScript, Bootstrap, Node.js, EJS, sqlite3
 
 
-### Practice Questions
+### Viva Question Bank
 ● Developed a Flask Web Application that ​ stores Viva questions for practising in future
 
 ● Inspired by students storing questions in Google Docs
@@ -54,7 +54,7 @@ restaurants in our campus and place a food order
 
 
 
-### Maze Generator
+### Maze Generator Using VaniallaJS
 ● Implemented Recursive-Backtracking Maze Generation Algorithm
 
 ● Functions:  increase/decrease maze cell size, change number of rows and cols, view the animation of maze generation
@@ -62,7 +62,7 @@ restaurants in our campus and place a food order
 ● Technologies Utilized:  HTML, CSS, Vanilla-JS, GitHub-pages
 
 
-### InSyd (Previous version - Popup Open)
+### InSyd (Previous version - Popup Open) Chrome Extension
 ● Developed a chrome extension which can open links on a page in a small popup window on the same page
 
 ● Functions: views inside of a link on the same page when you hover over a small icon appearing next to that link
