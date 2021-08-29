@@ -1,3 +1,19 @@
+# (っ◔◡◔)っ ♥ I enjoy writing code.
+
+**Activities I like:** Coding, Creating, Working, Learning
+
+**Programming Languages I know:** C++, Python, Java, JavaScript
+
+**Technologies I am familiar with:**
+
+➔ **Front-end:** HTML, CSS, JavaScript, Bootstrap, p5.js, React
+
+➔ **Back-end:** Python(Flask Microframework), node.js(Express.js), Java(Springboot)
+
+➔ **Databases:** SQLite, MySQL, MongoDB
+
+<hr></hr>
+
 ## Worth Visiting - Do have a look!
 ### Animations of Different Maze Generating Algorithms [Must Visit!](https://shaikh-ubaid.github.io/Implementation-and-Analysis-of-Maze-Generating-Algorithms/index)
 ### Solve the Maze [here's a challenge - try to solve 25 x 25 maze](https://shaikh-ubaid.github.io/Maze-Generator-Using-VanillaJS/index.html)
