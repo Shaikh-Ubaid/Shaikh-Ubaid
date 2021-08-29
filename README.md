@@ -1,7 +1,7 @@
 ## Worth Visiting - Do have a look!
-### Animations of Different Maze Generating Algorithms [Must Visit!](https://shaikh-ubaid.github.io/Algo-Project/)
-### Solve the Maze [here's a challenge - try to solve 25 x 25 maze](https://shaikh-ubaid.github.io/Maze-Generator-VanillaJS/index.html)
-### Maze Generator VanillaJS [Yet another maze generation animation](https://shaikh-ubaid.github.io/Maze-Generator-VanillaJS/animation.html)
+### Animations of Different Maze Generating Algorithms [Must Visit!](https://shaikh-ubaid.github.io/Implementation-and-Analysis-of-Maze-Generating-Algorithms/index)
+### Solve the Maze [here's a challenge - try to solve 25 x 25 maze](https://shaikh-ubaid.github.io/Maze-Generator-Using-VanillaJS/index.html)
+### Maze Generator VanillaJS [Yet another maze generation animation](https://shaikh-ubaid.github.io/Maze-Generator-Using-VanillaJS/animation.html)
 ### Kinara Publications Website [ALL STATIONARY FOR SCHOOLS AND OFFICES](https://kinara-publications.github.io/website/)
 ### Car Pooling Application [Share your cAAr-journeys](https://github.com/Unite-On-Wheels/CarPooling)
 ### La Fresco, The shopping center of IIT Indore [Come buy me a Cadbury Dairy Milk](http://la-fresco.herokuapp.com/)
