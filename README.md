@@ -15,6 +15,9 @@
 <hr/>
 
 ## Worth Visiting - Do have a look!
+
+Note: Near the end of November 2022, Heroku shut down its free tier. Hence, some of the following links (which were deployed on Heroku) no longer work. I apologize for any inconvenience.
+
 ### Animations of Different Maze Generating Algorithms [Must Visit!](https://shaikh-ubaid.github.io/Implementation-and-Analysis-of-Maze-Generating-Algorithms/index)
 ### Solve the Maze [here's a challenge - try to solve 25 x 25 maze](https://shaikh-ubaid.github.io/Maze-Generator-Using-VanillaJS/index.html)
 ### Maze Generator VanillaJS [Yet another maze generation animation](https://shaikh-ubaid.github.io/Maze-Generator-Using-VanillaJS/animation.html)
